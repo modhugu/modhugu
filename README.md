@@ -102,7 +102,7 @@ Jira | Azure Boards | ServiceNow | Remedy | ClearQuest | Confluence
 
 I'm always interested in collaborating on innovative cloud infrastructure, automation, and DevOps projects. Feel free to reach out!
 
-📧 **Email:** [sampath.modhugu@gmail.com](mailto:sampath.modhugu@gmail.com)  
+📧 **Email:** [sampathdev23@gmail.com](mailto:sampathdev23@gmail.com)  
 🔗 **LinkedIn:** [sampath-modhugu-440202192](https://www.linkedin.com/in/sampath-modhugu-440202192)  
 💼 **GitHub:** [@modhugu](https://github.com/modhugu)  
 🌍 **Location:** USA

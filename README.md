@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sampath Modhugu
 
-**🚀 Seasoned DevOps Engineer | Cloud Architect | Infrastructure Automation Specialist**
+**🚀 Seasoned DevOps Engineer | DevSecOps | Infrastructure Automation Specialist**
 
 I bridge the gap between development and operations to bring software to life faster and smoother. With expertise across AWS, Kubernetes, Terraform, and modern DevOps tools, I architect scalable, secure, and automated infrastructure solutions that empower teams to deliver excellence.
 
